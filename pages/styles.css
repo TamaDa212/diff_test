@@ -1,0 +1,5 @@
+/* minimal styles for clarity */
+body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; padding: 24px; }
+nav { margin-bottom: 18px; }
+nav a { margin-right: 12px; color: #0366d6; text-decoration: none; }
+main { border-top: 1px solid #eaeaea; padding-top: 12px; }
